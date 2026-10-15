@@ -4,6 +4,8 @@
 
 DocuMind is a Python application that lets users upload PDF documents, ask questions about their contents, and receive AI-generated answers with page references. It runs **Llama 3.2 locally through Ollama**, without requiring a paid AI API.
 
+<img width="2876" height="1548" alt="image" src="https://github.com/user-attachments/assets/5cfe3c1a-7e7b-4f50-a7d1-df9fcf974ff6" />
+
 ## Features
 
 - **PDF text extraction:** Reads text-based PDFs using PyMuPDF.
