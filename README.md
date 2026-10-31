@@ -11,9 +11,7 @@ Powered by **Llama 3.2 through Ollama**, DocuMind runs AI inference locally with
 
 ## Dashboard Preview
 
-Add a screenshot of the application to the `screenshots` folder in the repository and display it here:
-
-![DocuMind Dashboard](screenshots/dashboard.png)
+<img width="2876" height="1548" alt="image" src="https://github.com/user-attachments/assets/5cfe3c1a-7e7b-4f50-a7d1-df9fcf974ff6" />
 
 ## Features
 
